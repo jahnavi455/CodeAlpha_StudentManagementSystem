@@ -1,2 +1,11 @@
-# CodeAlpha_StudentManagementSystem
-Created a menu-driven C program to manage student records. Features: Add, Delete, Update, Search, Display records.  Used structures + file handling to store data permanently.
+# Student Management System in C
+
+Features:
+- Add Student
+- Display Students
+- Search Student
+
+Concepts Used:
+- Structures
+- File Handling
+- Menu Driven Program
